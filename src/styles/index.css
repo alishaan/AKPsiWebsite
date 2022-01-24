@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 19px;
+  line-height: 1.3em;
+  text-align: center;
+}
